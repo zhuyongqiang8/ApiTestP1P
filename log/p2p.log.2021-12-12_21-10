@@ -1,0 +1,3 @@
+2021-12-12 21:10:34,825 INFO [root] [__init__.py(<module>:5)] - info
+2021-12-12 21:10:34,827 ERROR [root] [__init__.py(<module>:6)] - error
+2021-12-12 21:10:35,101 INFO [root] [login.py(test16_register_no_agree_protocol:260)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
